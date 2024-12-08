@@ -1,7 +1,7 @@
 /* style.css */
 
-.container {
-    font-size: 28px;
+.container .text {
+    font-size: 20px;
     text-align: center;
     background-color: yellow;
     color: red;
